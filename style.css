@@ -10,12 +10,12 @@ body {
   font-size: 0.9375rem;
   min-height: 100vh;
   display: flex;
+  justify-content: center;
   align-items: center;
 }
 
 .container {
   max-width: 22rem;
-  margin: 0 auto;
 }
 
 .card {
